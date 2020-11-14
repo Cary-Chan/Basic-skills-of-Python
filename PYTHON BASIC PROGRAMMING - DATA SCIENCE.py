@@ -1,9 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Fri Jan 19 16:42:07 2018
-
-@author: Yuzheng.Cui
-"""
 
 #1、numpy
 #numpy的主要对象是同类型元素的多维数组，这是一个所有的元素都是一种类型、通过一个正整数元组索引的元素表格(通常是元素是数字)。
